@@ -11,7 +11,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 #### Editor de texto
 - **VsCode**
 
-####📋 Projeto
+#### 📋 Projeto
 Esse projeto tem como o objetivo clonar 5 telas do aplicativo mobile da Picpay.
 
 #### Estrutura do projeto
